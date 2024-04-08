@@ -3,7 +3,7 @@
 	width:100px;
 	height:100px;
 	background-color:red;
-	margin:120px;
+	/* margin:120px; */
 	animation: pulse 1s infinite ease-in;
 }
 
@@ -12,6 +12,6 @@
 		transform:scale(1)
 	}
 	70%{
-		transform:scale(.7)
+		transform:scale(.9)
 	}
 }
